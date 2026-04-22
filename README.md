@@ -66,10 +66,6 @@ ATM/
 - JSON/datetime (data)
 - pytest (tests)
 
-## Next Steps (Optional)
-- GUI (Tkinter/PyQt)
-- SQLite DB
-- GitHub PR
 
 **Prototype complete! Run & contribute 🚀**
 https://github.com/Blackdrg/ATM-simulation-.git
